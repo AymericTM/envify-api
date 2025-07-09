@@ -1,0 +1,16 @@
+export enum ROLE {
+  BACKEND_DEV = 'Backend Developer',
+  BUSINESS_ANALYST = 'Business Analyst',
+  DATA_ANALYST = 'Data Analyst',
+  DIRECTOR = 'Director',
+  FRONTEND_DEV = 'Frontend Developer',
+  MANAGER = 'Manager',
+  MARKETING_SPECIALIST = 'Marketing Specialist',
+  PRINCIPAL_ENGINEER = 'Principal Engineer',
+  QA = 'QA Engineer',
+  SENIOR_BACKEND_DEV = 'Senior Backend Developer',
+  SENIOR_FRONTEND_DEV = 'Senior Frontend Developer',
+  SENIOR_FULLSTACK_DEV = 'Senior FullStack Developer',
+  STAFF_ENGINEER = 'Staff Engineer',
+  TECH_LEAD = 'Tech Lead',
+}
